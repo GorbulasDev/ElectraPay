@@ -15,6 +15,7 @@ To avoid any risk of theft and misappropriation of our flagship product, the ent
 <strike>
     An article will soon be published to explain to everyone this strategic and vital change for the team, but especially for all Electra holders.
 </strike>
+
 # Update 06-19-2020
 
 Refactoring of the ElectraPay frontend is in progress to fix the current bugs (UI) and new features will be integrated to improve the user experience.
