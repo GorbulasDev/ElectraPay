@@ -5,7 +5,7 @@
         height="130">
 
 <p align="center">
-   <a href="https://www.electrapayonline.com/">
+    <a href="https://www.electrapayonline.com/">electraPayonline.com</a>
 
 
 The ElectraPay repositories have been moved in private location. This change is due to the near completion of development, and the use that the Electra project has planned for ElectraPay.
