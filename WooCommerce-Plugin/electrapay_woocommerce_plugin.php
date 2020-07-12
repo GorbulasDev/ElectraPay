@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: WooCommerce ElectraPay Gateway
-Plugin URI:
+Plugin Name: ElectraPay for WooCommerce
+Plugin URI: https://github.com/Electra-project/ElectraPay
 Description: Extends WooCommerce with ElectraPay gateway.
-Version: 1.8
-Author: Senthil
-Copyright:
-License: License
+Version: 1.0
+Author: Senthil, electraproject
+License: GPL v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
  */
 
 add_action('plugins_loaded', 'woocommerce_electrapay_init', 0);
